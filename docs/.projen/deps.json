@@ -33,6 +33,11 @@
       "type": "build"
     },
     {
+      "name": "generate-license-file",
+      "version": "3.0.3",
+      "type": "build"
+    },
+    {
       "name": "typescript",
       "type": "build"
     },
