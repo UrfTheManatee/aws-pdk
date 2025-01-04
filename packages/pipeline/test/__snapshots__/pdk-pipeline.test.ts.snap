@@ -904,7 +904,7 @@ exports[`PDK Pipeline Unit Tests CrossAccount - using AwsPrototyping NagPack 1`]
     },
     "build": {
       "commands": [
-        "cdk-assets --path \\"assembly-Stage/StageAppStack7618C9EF.assets.json\\" --verbose publish \\"01c1e1d72c6a32e94209be53ca2fdb4b07a183c189db770ea7e9740a3d311a18:current_account-current_region\\""
+        "cdk-assets --path \\"assembly-Stage/StageAppStack7618C9EF.assets.json\\" --verbose publish \\"41e339c4d4d69b1f1a39a91803288576556f85e92b5316f45baabefae7989395:current_account-current_region\\""
       ]
     }
   }
@@ -4686,7 +4686,7 @@ exports[`PDK Pipeline Unit Tests CrossAccount 1`] = `
     },
     "build": {
       "commands": [
-        "cdk-assets --path \\"assembly-Stage/StageAppStack7618C9EF.assets.json\\" --verbose publish \\"01c1e1d72c6a32e94209be53ca2fdb4b07a183c189db770ea7e9740a3d311a18:current_account-current_region\\""
+        "cdk-assets --path \\"assembly-Stage/StageAppStack7618C9EF.assets.json\\" --verbose publish \\"41e339c4d4d69b1f1a39a91803288576556f85e92b5316f45baabefae7989395:current_account-current_region\\""
       ]
     }
   }
@@ -8420,7 +8420,7 @@ exports[`PDK Pipeline Unit Tests Defaults - using AwsPrototyping NagPack 1`] = `
     },
     "build": {
       "commands": [
-        "cdk-assets --path \\"assembly-Stage/StageAppStack7618C9EF.assets.json\\" --verbose publish \\"01c1e1d72c6a32e94209be53ca2fdb4b07a183c189db770ea7e9740a3d311a18:current_account-current_region\\""
+        "cdk-assets --path \\"assembly-Stage/StageAppStack7618C9EF.assets.json\\" --verbose publish \\"41e339c4d4d69b1f1a39a91803288576556f85e92b5316f45baabefae7989395:current_account-current_region\\""
       ]
     }
   }
@@ -11952,7 +11952,7 @@ exports[`PDK Pipeline Unit Tests Defaults 1`] = `
     },
     "build": {
       "commands": [
-        "cdk-assets --path \\"assembly-Stage/StageAppStack7618C9EF.assets.json\\" --verbose publish \\"01c1e1d72c6a32e94209be53ca2fdb4b07a183c189db770ea7e9740a3d311a18:current_account-current_region\\""
+        "cdk-assets --path \\"assembly-Stage/StageAppStack7618C9EF.assets.json\\" --verbose publish \\"41e339c4d4d69b1f1a39a91803288576556f85e92b5316f45baabefae7989395:current_account-current_region\\""
       ]
     }
   }
@@ -15588,7 +15588,7 @@ exports[`PDK Pipeline Unit Tests Feature Branches - feature/new-feature_branch -
     },
     "build": {
       "commands": [
-        "cdk-assets --path \\"assembly-feature-new-feature-branch-Stage/featurenewfeaturebranchStageAppStack9BC96CAD.assets.json\\" --verbose publish \\"01c1e1d72c6a32e94209be53ca2fdb4b07a183c189db770ea7e9740a3d311a18:current_account-current_region\\""
+        "cdk-assets --path \\"assembly-feature-new-feature-branch-Stage/featurenewfeaturebranchStageAppStack9BC96CAD.assets.json\\" --verbose publish \\"41e339c4d4d69b1f1a39a91803288576556f85e92b5316f45baabefae7989395:current_account-current_region\\""
       ]
     }
   }
@@ -18515,7 +18515,7 @@ exports[`PDK Pipeline Unit Tests Feature Branches - feature/new-feature_branch 1
     },
     "build": {
       "commands": [
-        "cdk-assets --path \\"assembly-feature-new-feature-branch-Stage/featurenewfeaturebranchStageAppStack9BC96CAD.assets.json\\" --verbose publish \\"01c1e1d72c6a32e94209be53ca2fdb4b07a183c189db770ea7e9740a3d311a18:current_account-current_region\\""
+        "cdk-assets --path \\"assembly-feature-new-feature-branch-Stage/featurenewfeaturebranchStageAppStack9BC96CAD.assets.json\\" --verbose publish \\"41e339c4d4d69b1f1a39a91803288576556f85e92b5316f45baabefae7989395:current_account-current_region\\""
       ]
     }
   }
@@ -21331,7 +21331,7 @@ exports[`PDK Pipeline Unit Tests Feature Branches - mainline - using AwsPrototyp
     },
     "build": {
       "commands": [
-        "cdk-assets --path \\"assembly-Stage/StageAppStack7618C9EF.assets.json\\" --verbose publish \\"01c1e1d72c6a32e94209be53ca2fdb4b07a183c189db770ea7e9740a3d311a18:current_account-current_region\\""
+        "cdk-assets --path \\"assembly-Stage/StageAppStack7618C9EF.assets.json\\" --verbose publish \\"41e339c4d4d69b1f1a39a91803288576556f85e92b5316f45baabefae7989395:current_account-current_region\\""
       ]
     }
   }
@@ -24461,7 +24461,7 @@ exports[`PDK Pipeline Unit Tests Feature Branches - mainline 1`] = `
     },
     "build": {
       "commands": [
-        "cdk-assets --path \\"assembly-Stage/StageAppStack7618C9EF.assets.json\\" --verbose publish \\"01c1e1d72c6a32e94209be53ca2fdb4b07a183c189db770ea7e9740a3d311a18:current_account-current_region\\""
+        "cdk-assets --path \\"assembly-Stage/StageAppStack7618C9EF.assets.json\\" --verbose publish \\"41e339c4d4d69b1f1a39a91803288576556f85e92b5316f45baabefae7989395:current_account-current_region\\""
       ]
     }
   }
@@ -27591,7 +27591,7 @@ exports[`PDK Pipeline Unit Tests Feature Branches - using AwsPrototyping NagPack
     },
     "build": {
       "commands": [
-        "cdk-assets --path \\"assembly-Stage/StageAppStack7618C9EF.assets.json\\" --verbose publish \\"01c1e1d72c6a32e94209be53ca2fdb4b07a183c189db770ea7e9740a3d311a18:current_account-current_region\\""
+        "cdk-assets --path \\"assembly-Stage/StageAppStack7618C9EF.assets.json\\" --verbose publish \\"41e339c4d4d69b1f1a39a91803288576556f85e92b5316f45baabefae7989395:current_account-current_region\\""
       ]
     }
   }
@@ -30721,7 +30721,7 @@ exports[`PDK Pipeline Unit Tests Feature Branches 1`] = `
     },
     "build": {
       "commands": [
-        "cdk-assets --path \\"assembly-Stage/StageAppStack7618C9EF.assets.json\\" --verbose publish \\"01c1e1d72c6a32e94209be53ca2fdb4b07a183c189db770ea7e9740a3d311a18:current_account-current_region\\""
+        "cdk-assets --path \\"assembly-Stage/StageAppStack7618C9EF.assets.json\\" --verbose publish \\"41e339c4d4d69b1f1a39a91803288576556f85e92b5316f45baabefae7989395:current_account-current_region\\""
       ]
     }
   }
